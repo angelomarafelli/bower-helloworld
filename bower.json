@@ -1,0 +1,24 @@
+{
+  "name": "bower-helloworld",
+  "description": "Primeiro contato com bower",
+  "main": "index.js",
+  "authors": [
+    "Ângelo Marafelli"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3",
+    "tinymce": "^4.4.3"
+  }
+}

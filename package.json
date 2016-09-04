@@ -1,0 +1,22 @@
+{
+  "name": "bower-helloworld",
+  "version": "1.0.0",
+  "description": "Primeiro contato com bower",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelomarafelli/bower-helloworld.git"
+  },
+  "author": "Ângelo Marafelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelomarafelli/bower-helloworld/issues"
+  },
+  "homepage": "https://github.com/angelomarafelli/bower-helloworld#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
